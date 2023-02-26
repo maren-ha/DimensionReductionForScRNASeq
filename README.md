@@ -1,8 +1,13 @@
-# DimensionReductionForScRNASeq
+# Methods Snack: Dimension reduction methods for single-cell RNA-sequencing data. 
 
 This repository hosts a Jupyter notebook with an interactive introduction to popular dimension reduction methods for single-cell RNA-seq data, including explanations and code demos, in parts adapted from this [scanpy tutorial](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html#)
 
 The notebook was created for a "Methods Snack" lecture in the [MeInBio graduate programme](https://www.meinbio.uni-freiburg.de), given on February 27, 2023. 
+
+## Introduction 
+
+One of the first steps in a typical single-cell RNA-seq data analysis workflow is to reduce dimensionality to be able to look at your data. Among the most popular approaches are PCA, tSNE, UMAP, or deep-learning based methods. If you have you ever wondered how to choose one method over the other, how they really work “under the hood” and how to know which parameters to pick when applying them, this method snack might be for you. 
+I will introduce the inner workings of PCA, tSNE, UMAP and autoencoders (a deep learning-based technique), and provide some considerations to take into account when choosing a method for dimension reduction based on your dataset and your specific research question. Throughout the methods snack, we’ll be working with hands-on examples in Python in a Jupyter notebook, to see the methods “in action”, compare them to one another on different datasets, and gain some insights on how to select parameters. This repository hosts the notebook. In this README, you can find some instructions on how to access and use it. 
 
 ## Instructions for using the notebook 
 
