@@ -17,7 +17,7 @@ I will introduce the inner workings of PCA, tSNE, UMAP and autoencoders (a deep 
 
 * ***Prerequisites:*** You need a Google account (and a small bit of free space on your Google Drive). 
 * ***Pros:*** Requires no local installation of Python or any packages
-* ***Cons:*** Relatively low compute power, i.e., slow runtime. Last part currently does not work on Google Colab due to a bug in the Python package. 
+* ***Cons:*** Relatively low compute power, i.e., slow runtime. 
 * ***Instructions:***
   * get a copy of the notebook to your Google Drive: Open the notebook and create a copy in your Google Drive 
 > :zap: **Very important**:zap: Please make a copy of the notebook straight away or upload the `DimensionReduction_Colab.ipynb` file from the repository to your Google Drive, so that you have a copy in your own Google Drive! Make sure to make changes only to the copy, otherwise you will not be able to save it and any changes you do in the notebook will be lost after you close the browser tab. 
