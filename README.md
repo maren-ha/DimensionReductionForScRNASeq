@@ -13,7 +13,7 @@ I will introduce the inner workings of PCA, tSNE, UMAP and autoencoders (a deep 
 
 ### **Option 1: Run the notebook on Google Colab**
 
-<a href="https://colab.research.google.com/github/maren-ha/DimensionReductionForScRNASeq/blob/main/DimensionReduction_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/maren-ha/DimensionReductionForScRNASeq/blob/main/DimensionReduction_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 * ***Prerequisites:*** You need a Google account (and a small bit of free space on your Google Drive). 
 * ***Pros:*** Requires no local installation of Python or any packages
